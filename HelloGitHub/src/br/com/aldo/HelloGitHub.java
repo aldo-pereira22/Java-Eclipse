@@ -1,6 +1,6 @@
 package br.com.aldo;
 
-public class HellGit {
+public class HelloGitHub {
 
 	public static void main(String[] args) {
 		//Exemplo de integração do Eclipse com o GitHub
